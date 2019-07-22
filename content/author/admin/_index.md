@@ -4,18 +4,21 @@ authors:
 bio: 
 education:
   courses:
+  - course: MA in Economic Research
+    institution: CERGE-EI
+    year: 2019-
   - course: Bc. in Economics and Finance
     institution: Charles University
-    year: 2019
+    year: 2016-2019
 email: "martin.kosiik@gmail.com"
 interests:
-- Political economy and conflict
+- Political economy of conflict
+- Quantitative history
 - Machine learning and big data
-- Cultural evolution
 name: Martin Kosík
 organizations:
-- name: Institute of Economic Studies, Charles University
-  url: "http://ies.fsv.cuni.cz/content/tree/index/lang/en"
+- name: CERGE-EI
+  url: "https://www.cerge-ei.cz/"
 role: Student
 social:
 - icon: envelope
