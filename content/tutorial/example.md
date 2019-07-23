@@ -6,17 +6,20 @@ menu:
   tutorial:
     parent: Example Topic
     weight: 1
-title: Example Page
+title: Resources for research
 toc: true
 type: docs
 ---
 
-In this tutorial, I'll share my top 10 tips for getting started with Academic:
+Here I share some online resouces that I found potentially useful for historical research.
 
-## Tip 1
+## The American Civil War
+- [Regimental losses in the American Civil War, 1861-1865](https://archive.org/details/reglossescivilwar00foxwrich/page/326)
+- [The War of the Rebellion: a Compilation of the Official Records of the Union and Confederate Armies](http://collections.library.cornell.edu/moa_new/waro.html)
+- [The Library of Congress - Digital Collections](https://www.loc.gov/collections/)
+- [The Library of Congress - Chronicling America](https://chroniclingamerica.loc.gov/)
 
-...
+## Germany
 
-## Tip 2
-
-...
+## The Soviet Union
+- [The Melbourne Gateway to Research on Soviet History](http://www.melgrosh.unimelb.edu.au/home-front.php)

@@ -5,26 +5,28 @@ authors:
 - Martin Kosík
 date: "2019-06-01T00:00:00+02:00"
 doi: ""
-draft: true
+draft: false
 featured: true
 math: true
 projects:
-- internal-project
-- "1"
+#- internal-project
+#- "1"
 tags: []
-title: Geopolitics of Repressions
+title: The Geopolitics of Repressions
 url_code: ''
 url_custom:
 - name: Github repository
   url: https://github.com/martin-kosiik/Geopolitics-of-Repressions
 url_dataset: ''
-url_pdf: 
+url_pdf: "https://martin-kosiik.github.io/Geopolitics_of_Repressions.pdf"
 url_poster: ''
 url_preprint: 
 url_project: ""
-url_slides: ''
+url_slides: 'https://martin-kosiik.github.io/Thesis_presentation.pdf'
 url_source: ''
 url_video: ""
 ---
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+The full paper is available [here](https://martin-kosiik.github.io/Geopolitics_of_Repressions.pdf). 
+
+The Github repository of the project ([here](https://github.com/martin-kosiik/Geopolitics-of-Repressions)) contains the necessary replication files.

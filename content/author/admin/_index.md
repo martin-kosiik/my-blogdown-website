@@ -36,5 +36,5 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my website. I am a student at Institute of Economic Studies, Charles University. You can find here all my projects as well as some blogs. 
+Welcome to my website. I am a student at CERGE-EI in Prague. You can find here all my current and past projects as well as some useful data sources. 
 

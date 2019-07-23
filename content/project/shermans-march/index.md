@@ -2,19 +2,19 @@
 date: "2016-04-27T00:00:00+02:00"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+#  caption: Sherman's March to the Sea
   focal_point: Smart
-slides: example-slides
-summary: An example of using the in-built project page.
+#slides: example-slides
+summary: This project aims to estimate the effect of the Sherman's March on trust of the federal government and southern identity. 
 tags:
-- Deep Learning
-title: Internal Project
+- Civil war
+title: Effects of Sherman's March on Southern Attitudes
 url_code: ""
 url_custom:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
 url_pdf: ""
 url_slides: ""
 url_video: ""
