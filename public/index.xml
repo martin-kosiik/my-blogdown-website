@@ -85,16 +85,22 @@ rm Untitled.md
     </item>
     
     <item>
-      <title>Resources for research</title>
+      <title>Resources for historical research</title>
       <link>/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
       
       <guid>/tutorial/example/</guid>
       <description>
 
-&lt;p&gt;Here I share some online resouces that I found potentially useful for historical research.&lt;/p&gt;
+&lt;p&gt;Here I share some online resouces that I found useful for historical research.&lt;/p&gt;
 
-&lt;h2 id=&#34;the-american-civil-war&#34;&gt;The American Civil War&lt;/h2&gt;
+&lt;h2 id=&#34;roman-empire&#34;&gt;Roman Empire&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://orbis.stanford.edu/&#34; target=&#34;_blank&#34;&gt;ORBIS: The Stanford Geospatial Network Model of the Roman World&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;us&#34;&gt;US&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://archive.org/details/reglossescivilwar00foxwrich/page/326&#34; target=&#34;_blank&#34;&gt;Regimental losses in the American Civil War, 1861-1865&lt;/a&gt;&lt;/li&gt;
@@ -105,7 +111,11 @@ rm Untitled.md
 
 &lt;h2 id=&#34;germany&#34;&gt;Germany&lt;/h2&gt;
 
-&lt;h2 id=&#34;the-soviet-union&#34;&gt;The Soviet Union&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://zefys.staatsbibliothek-berlin.de/index.php?id=start&amp;amp;L=1&#34; target=&#34;_blank&#34;&gt;EFYS Zeitungsinformationssystem (German newspapers)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;soviet-union&#34;&gt;Soviet Union&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.melgrosh.unimelb.edu.au/home-front.php&#34; target=&#34;_blank&#34;&gt;The Melbourne Gateway to Research on Soviet History&lt;/a&gt;&lt;/li&gt;

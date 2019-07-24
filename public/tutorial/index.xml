@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Overview on </title>
+    <title>Literature reviews on </title>
     <link>/tutorial/</link>
-    <description>Recent content in Overview on </description>
+    <description>Recent content in Literature reviews on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0200</lastBuildDate>
@@ -12,13 +12,13 @@
     
     
     <item>
-      <title>Resources for research</title>
+      <title>Resources for historical research</title>
       <link>/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
       
       <guid>/tutorial/example/</guid>
-      <description> Here I share some online resouces that I found potentially useful for historical research.
-The American Civil War  Regimental losses in the American Civil War, 1861-1865 The War of the Rebellion: a Compilation of the Official Records of the Union and Confederate Armies The Library of Congress - Digital Collections The Library of Congress - Chronicling America  Germany The Soviet Union  The Melbourne Gateway to Research on Soviet History  </description>
+      <description> Here I share some online resouces that I found useful for historical research.
+Roman Empire  ORBIS: The Stanford Geospatial Network Model of the Roman World  US  Regimental losses in the American Civil War, 1861-1865 The War of the Rebellion: a Compilation of the Official Records of the Union and Confederate Armies The Library of Congress - Digital Collections The Library of Congress - Chronicling America  Germany  EFYS Zeitungsinformationssystem (German newspapers)  Soviet Union  The Melbourne Gateway to Research on Soviet History  </description>
     </item>
     
   </channel>
