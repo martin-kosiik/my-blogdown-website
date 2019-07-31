@@ -24,6 +24,7 @@ Here I share some online resouces that I found useful for historical research.
 
 ## Germany
 - [EFYS Zeitungsinformationssystem (German newspapers)](http://zefys.staatsbibliothek-berlin.de/index.php?id=start&L=1)
+- [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de/)
 
 ## Soviet Union
 - [The Melbourne Gateway to Research on Soviet History](http://www.melgrosh.unimelb.edu.au/home-front.php)
