@@ -25,6 +25,14 @@ Here I share some online resouces that I found useful for historical research.
 ## Germany
 - [EFYS Zeitungsinformationssystem (German newspapers)](http://zefys.staatsbibliothek-berlin.de/index.php?id=start&L=1)
 - [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de/)
+- [Deutsche Biographie](https://www.deutsche-biographie.de/home)
+
+## Finland
+- [Digital Archives](http://digi.narc.fi/digi/?lang=en_US)
+- [Semantic Computing Research Group](https://seco.cs.aalto.fi)
+
+## Ireland
+- [Military Archives](http://www.militaryarchives.ie/en/home/)
 
 ## Soviet Union
 - [The Melbourne Gateway to Research on Soviet History](http://www.melgrosh.unimelb.edu.au/home-front.php)
